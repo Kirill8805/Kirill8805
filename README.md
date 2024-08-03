@@ -1,10 +1,10 @@
-# <h1 align="center">Hi 👋, I'm Kirill</h1>
+# <h1>Hi 👋, I'm Kirill</h1>
   
 ---
 
 ### 🌟 Welcome to my Github profile!
 
-<h3 align="center">A frontend developer from Kazakhstan</h3>
+<h3>A frontend developer from Kazakhstan</h3>
 
 ---
 
