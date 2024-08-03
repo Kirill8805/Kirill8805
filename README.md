@@ -23,7 +23,7 @@
 
 ## 📫 How to contact me
 
-- Instagram: [Ваш LinkedIn](https://www.instagram.com/kirill_koltakov_pvl/)
+- Instagram: [kirill_koltakov_pvl](https://www.instagram.com/kirill_koltakov_pvl/)
 
 ---
 
