@@ -20,12 +20,6 @@
 
 ---
 
-## 📫 How to contact me
-
-- Instagram: [kirill_koltakov_pvl](https://www.instagram.com/kirill_koltakov_pvl/)
-
----
-
 ## 🎨 Hobbies and interests
 
 - 🎮 Photo
